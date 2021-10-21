@@ -1,4 +1,4 @@
-# Object Master: Part One And Part Two
+# Object Master: Part One and Part Two
 
 Objectives:
 
